@@ -1,1 +1,3 @@
-module.export = {}
+module.exports = {
+    AirplaneMiddlewares: require('./airplane-middlewares')
+}

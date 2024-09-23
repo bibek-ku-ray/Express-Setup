@@ -1,1 +1,3 @@
-module.export = {}
+module.exports = {
+    AirplainService: require("./airplain-service"),
+};
